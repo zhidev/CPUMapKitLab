@@ -10,7 +10,7 @@ import UIKit
 import MapKit
 import CoreLocation
 
-
+//Stuff
 
 
 class LocationsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate {
